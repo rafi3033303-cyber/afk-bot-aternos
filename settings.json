@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
+  "bot-account": {OP_RAFI
     "username": "DbgamingLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "myserverfirst.minekeep.gg",
     "port": 25565,
     "version": "1.21.1"
   },
