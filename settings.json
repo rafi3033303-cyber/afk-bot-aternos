@@ -8,7 +8,7 @@
   "server": {
     "ip": "myserverfirst.minekeep.gg",
     "port": 25565,
-    "version": "1.21.1"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
