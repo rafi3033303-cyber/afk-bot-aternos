@@ -1,6 +1,6 @@
 {
   "name": "AFK Bot",
-  "bot-account": {OP_RAFI}
+  "bot-account": {
     "username": "DbgamingLive",
     "password": "",
     "type": "offline"
